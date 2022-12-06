@@ -1,15 +1,15 @@
-To run dynamic rendering
+To run dynamic rendering in json files
 
-    ```
-    scrapy crawl integrations -o test.json
-    ```
-
-
+```bash
+$ scrapy crawl integrations -o test.json
+```
 
 
-To run static rendering
 
-    ```
-    scrapy crawl integrations_html
-    scrapy crawl all
-    ```
+
+To run static html files rendering
+
+```bash
+$ scrapy crawl integrations_html
+$ scrapy crawl all
+```
