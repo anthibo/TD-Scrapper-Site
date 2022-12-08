@@ -1,7 +1,7 @@
 
 ## Instalation
 
-- [Scrapy Installation](https://linktodocumentation)
+- [Scrapy Installation](https://docs.scrapy.org/en/latest/intro/install.html)
 - [Create a Virtual environment](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
 - Run inside your venv ``pip install scrapy`` 
 ## To run dynamic rendering
