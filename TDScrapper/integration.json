@@ -1,0 +1,551 @@
+[
+    {
+        "intro": {
+            "header": "Integrations & Add-ons",
+            "body": "These Time Doctor integrations allow you to connect your favorite apps so you can conveniently manage projects in one single interface."
+        },
+        "integration_type": {
+            "all": "All",
+            "project-management": "Project Management",
+            "payments-and-invoicing": "Payments & Invoicing",
+            "help-desk": "Help Desk",
+            "communication": "Communication",
+            "crm": "CRM"
+        },
+        "integrations": [
+            {
+                "integration_code": "#",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing"
+                }
+            },
+            {
+                "integration_code": "asana-time-tracking",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "communication project-management"
+                }
+            },
+            {
+                "integration_code": "avaza",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "team-foundation-server",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "bitbucket",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "bitrix-24",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "breeze",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "bugherd",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "citrix",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": ""
+                }
+            },
+            {
+                "integration_code": "clickup",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "evernote",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "flow",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "freshbooks",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing project-management"
+                }
+            },
+            {
+                "integration_code": "freshdesk",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "help-desk"
+                }
+            },
+            {
+                "integration_code": "freshservice",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "help-desk"
+                }
+            },
+            {
+                "integration_code": "g-suite",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "github",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "gitlab",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "glip",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "gusto",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing"
+                }
+            },
+            {
+                "integration_code": "help-scout",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "hubspot",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "crm"
+                }
+            },
+            {
+                "integration_code": "intercom",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "help-desk"
+                }
+            },
+            {
+                "integration_code": "intervals",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "jira",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "liquidplanner",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "mavenlink",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "meistertask",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "microsoft-to-do",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "monday.com",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "notion",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "odoo",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "office-365",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "ora",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "#",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing"
+                }
+            },
+            {
+                "integration_code": "paypal",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing"
+                }
+            },
+            {
+                "integration_code": "phabricator",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management help-desk"
+                }
+            },
+            {
+                "integration_code": "pipedrive",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "crm"
+                }
+            },
+            {
+                "integration_code": "pivotal-tracker",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "plutio",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "podio",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management communication"
+                }
+            },
+            {
+                "integration_code": "processstreet",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "redbooth",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "redmine",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "salesforce",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "sentry",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "slack-time-tracking",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "communication"
+                }
+            },
+            {
+                "integration_code": "spiceworks",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "taiga",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "teamwave",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "teamwork",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "todoist",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "trainual",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "trello",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "unfuddle",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "wise",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "payments-and-invoicing"
+                }
+            },
+            {
+                "integration_code": "wordpress",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "worksection",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "wrike",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "zapier",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "communication project-management"
+                }
+            },
+            {
+                "integration_code": "zendesk-time-tracking",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "help-desk"
+                }
+            },
+            {
+                "integration_code": "zenkit",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "zoho",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "crm communication project-management"
+                }
+            },
+            {
+                "integration_code": "zoho-desk",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "help-desk"
+                }
+            },
+            {
+                "integration_code": "zohoproject",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            },
+            {
+                "integration_code": "zoho-sprints",
+                "view_data": {
+                    "img": "path",
+                    "description": "\n  ",
+                    "integration_type": "project-management"
+                }
+            }
+        ]
+    }
+][
+{"intro": {"header": "Integrations & Add-ons", "body": "These Time Doctor integrations allow you to connect your favorite apps so you can conveniently manage projects in one single interface."}, "integration_type": {"all": "All", "project-management": "Project Management", "payments-and-invoicing": "Payments & Invoicing", "help-desk": "Help Desk", "communication": "Communication", "crm": "CRM"}, "integrations": [{"integration_code": "#", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing"}}, {"integration_code": "asana-time-tracking", "view_data": {"img": "path", "description": "\n  ", "integration_type": "communication project-management"}}, {"integration_code": "avaza", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "team-foundation-server", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "bitbucket", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "bitrix-24", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "breeze", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "bugherd", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "citrix", "view_data": {"img": "path", "description": "\n  ", "integration_type": ""}}, {"integration_code": "clickup", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "evernote", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "flow", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "freshbooks", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing project-management"}}, {"integration_code": "freshdesk", "view_data": {"img": "path", "description": "\n  ", "integration_type": "help-desk"}}, {"integration_code": "freshservice", "view_data": {"img": "path", "description": "\n  ", "integration_type": "help-desk"}}, {"integration_code": "g-suite", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "github", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "gitlab", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "glip", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "gusto", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing"}}, {"integration_code": "help-scout", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "hubspot", "view_data": {"img": "path", "description": "\n  ", "integration_type": "crm"}}, {"integration_code": "intercom", "view_data": {"img": "path", "description": "\n  ", "integration_type": "help-desk"}}, {"integration_code": "intervals", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "jira", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "liquidplanner", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "mavenlink", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "meistertask", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "microsoft-to-do", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "monday.com", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "notion", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "odoo", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "office-365", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "ora", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "#", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing"}}, {"integration_code": "paypal", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing"}}, {"integration_code": "phabricator", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management help-desk"}}, {"integration_code": "pipedrive", "view_data": {"img": "path", "description": "\n  ", "integration_type": "crm"}}, {"integration_code": "pivotal-tracker", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "plutio", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "podio", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management communication"}}, {"integration_code": "processstreet", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "redbooth", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "redmine", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "salesforce", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "sentry", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "slack-time-tracking", "view_data": {"img": "path", "description": "\n  ", "integration_type": "communication"}}, {"integration_code": "spiceworks", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "taiga", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "teamwave", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "teamwork", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "todoist", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "trainual", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "trello", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "unfuddle", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "wise", "view_data": {"img": "path", "description": "\n  ", "integration_type": "payments-and-invoicing"}}, {"integration_code": "wordpress", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "worksection", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "wrike", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "zapier", "view_data": {"img": "path", "description": "\n  ", "integration_type": "communication project-management"}}, {"integration_code": "zendesk-time-tracking", "view_data": {"img": "path", "description": "\n  ", "integration_type": "help-desk"}}, {"integration_code": "zenkit", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "zoho", "view_data": {"img": "path", "description": "\n  ", "integration_type": "crm communication project-management"}}, {"integration_code": "zoho-desk", "view_data": {"img": "path", "description": "\n  ", "integration_type": "help-desk"}}, {"integration_code": "zohoproject", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}, {"integration_code": "zoho-sprints", "view_data": {"img": "path", "description": "\n  ", "integration_type": "project-management"}}]}
+][
+[
+{"intro": {"header": "Integrations & Add-ons", "body": "These Time Doctor integrations allow you to connect your favorite apps so you can conveniently manage projects in one single interface."}, "integration_type": {"all": "All", "project-management": "Project Management", "payments-and-invoicing": "Payments & Invoicing", "help-desk": "Help Desk", "communication": "Communication", "crm": "CRM"}, "integrations": [{"integration_code": "#", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing"}}, {"integration_code": "asana-time-tracking", "view_data": {"img": "path", "description": null, "integration_type": "communication project-management"}}, {"integration_code": "avaza", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "team-foundation-server", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "bitbucket", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "bitrix-24", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "breeze", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "bugherd", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "citrix", "view_data": {"img": "path", "description": null, "integration_type": ""}}, {"integration_code": "clickup", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "evernote", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "flow", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "freshbooks", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing project-management"}}, {"integration_code": "freshdesk", "view_data": {"img": "path", "description": null, "integration_type": "help-desk"}}, {"integration_code": "freshservice", "view_data": {"img": "path", "description": null, "integration_type": "help-desk"}}, {"integration_code": "g-suite", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "github", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "gitlab", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "glip", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "gusto", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing"}}, {"integration_code": "help-scout", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "hubspot", "view_data": {"img": "path", "description": null, "integration_type": "crm"}}, {"integration_code": "intercom", "view_data": {"img": "path", "description": null, "integration_type": "help-desk"}}, {"integration_code": "intervals", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "jira", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "liquidplanner", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "mavenlink", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "meistertask", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "microsoft-to-do", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "monday.com", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "notion", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "odoo", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "office-365", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "ora", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "#", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing"}}, {"integration_code": "paypal", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing"}}, {"integration_code": "phabricator", "view_data": {"img": "path", "description": null, "integration_type": "project-management help-desk"}}, {"integration_code": "pipedrive", "view_data": {"img": "path", "description": null, "integration_type": "crm"}}, {"integration_code": "pivotal-tracker", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "plutio", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "podio", "view_data": {"img": "path", "description": null, "integration_type": "project-management communication"}}, {"integration_code": "processstreet", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "redbooth", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "redmine", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "salesforce", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "sentry", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "slack-time-tracking", "view_data": {"img": "path", "description": null, "integration_type": "communication"}}, {"integration_code": "spiceworks", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "taiga", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "teamwave", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "teamwork", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "todoist", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "trainual", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "trello", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "unfuddle", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "wise", "view_data": {"img": "path", "description": null, "integration_type": "payments-and-invoicing"}}, {"integration_code": "wordpress", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "worksection", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "wrike", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "zapier", "view_data": {"img": "path", "description": null, "integration_type": "communication project-management"}}, {"integration_code": "zendesk-time-tracking", "view_data": {"img": "path", "description": null, "integration_type": "help-desk"}}, {"integration_code": "zenkit", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "zoho", "view_data": {"img": "path", "description": null, "integration_type": "crm communication project-management"}}, {"integration_code": "zoho-desk", "view_data": {"img": "path", "description": null, "integration_type": "help-desk"}}, {"integration_code": "zohoproject", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}, {"integration_code": "zoho-sprints", "view_data": {"img": "path", "description": null, "integration_type": "project-management"}}]}
+]

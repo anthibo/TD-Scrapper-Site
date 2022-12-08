@@ -84,27 +84,27 @@ class IntegrationsSpider(scrapy.Spider):
         # get integration
         integrations = []
         integration_lists_path = response.css(".integrations-list").css("a")
-
         for int_path in integration_lists_path:
-            # integration_href= int_path.css("a::href").get()
-            # if integration_href == '#' :
-            #     integration_href = '/afasd'
-            # integration_code = integration_href.split("/")[-2] 
+            integration_link= int_path.css("a::attr(href)").get()
+            if integration_link != '#' :
+                # recurse scrapping to integration page
+                integration_link = integration_link
+            integration_code = integration_link.split("/")[-1] 
             integration_description = int_path.css("a::text").get()
+            print('iintegration_description', integration_description)
             integration_type = int_path.css("a::attr(data-type)").get()
-            type_name = int_path.css("a::text").get()
             integrations.append({
-                'integration_code': 'integration_code',
+                'integration_code': integration_code,
                 'view_data': {
                     'img':'path',
                     'description': integration_description,
                     'integration_type': integration_type
                 }
             })
-        yield({
+        return {
             "intro" : intro,
             "integration_type" : integration_types,
             "integrations": integrations,
-        })
+        }
 
 
